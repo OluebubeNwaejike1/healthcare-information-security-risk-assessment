@@ -9,7 +9,6 @@ The purpose is to identify threats and vulnerabilities affecting critical inform
 The assessment uses a qualitative risk assessment methodology based on likelihood and impact.
 
 2. Risk Assessment Methodology
-
 2.1 Likelihood Scale
 
 Rating| Description
@@ -18,7 +17,6 @@ Rating| Description
 3| Possible
 4| Likely
 5| Almost Certain
-
 2.2 Impact Scale
 
 Rating| Description
@@ -27,6 +25,9 @@ Rating| Description
 3| Moderate
 4| Major
 5| Severe
+
+
+
 
 2.3 Risk Scoring
 
